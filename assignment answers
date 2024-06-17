@@ -1,0 +1,12 @@
+My operating system is windows 11.
+The text editor I have installed is Visual Studio code callled vs code for short. I installed it directly from their website and selected the version compatible with my device.
+For the version control, i installed git, and set it up locally and was able to link it to my github account to hosy my repositories.
+To program seamlessly, I had to install programming languages. The first one i installed was python which i was also able to set up locally and use with the VS code IDE.
+Another step in setting up my dev environment was to install package managers like pip for example.
+Next, I was able to download and setup mysql on my local machine and setup a server with help online
+Using IDEs would be difficult if there were no extensions. They help make the user ecperience of the IDE easy, beginner friendly and efficient.I was able to install the pylance extension for python, intellisense and other relevent extensions and plugins
+
+
+setting up your development is relatively easy if you can navigate the web, For me the experience was a seamless one one as I was able to find youtube videos to help with the above. 
+Many find it difficult to setup and install mysql. The most effective way to overcome this is to go online and find a video on mysql installation coupled with the info on the documentation.
+Even as a beginnner, you will be good to go with these steps
